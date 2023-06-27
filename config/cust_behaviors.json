@@ -1,0 +1,34 @@
+[
+	{
+		"code": "&k_cut",
+		"name": "&k_cut",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": " &K_CUT",
+		"name": " &K_CUT",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&K_COPY",
+		"name": "&K_COPY",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&K_PASTE",
+		"name": "&K_PASTE",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
